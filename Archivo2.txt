@@ -1,1 +1,10 @@
-hola 
+Ejemplo teórico:
+Supongamos que un departamento de recursos humanos necesita renombrar una gran cantidad de archivos de empleados de acuerdo con un nuevo esquema de nomenclatura. Un enfoque manual implicaría que un empleado renombre cada archivo individualmente, lo que llevaría mucho tiempo y sería propenso a errores.
+En cambio, se puede desarrollar un script de automatización que recorra la carpeta de archivos de empleados, identifique cada archivo, extraiga la información relevante y la utilice para generar un nuevo nombre de archivo de acuerdo con el esquema especificado. El script luego renombraría automáticamente cada archivo, ahorrando tiempo y garantizando la precisión.
+Casos de uso:
+Los scripts de automatización de administración de archivos se pueden utilizar para una amplia gama de tareas, incluyendo:
+Renombrar y mover archivos: Automatizar el cambio de nombre de archivos y su traslado a ubicaciones específicas, siguiendo reglas predefinidas.
+Organizar carpetas: Crear, eliminar y reorganizar carpetas de manera automática, basándose en criterios específicos como la fecha, el tipo de archivo o el nombre del proyecto.
+Copiar y respaldar archivos: Realizar copias de seguridad de archivos y carpetas importantes de manera programada, garantizando la protección de datos.
+Eliminar archivos temporales: Eliminar automáticamente archivos temporales y no utilizados para liberar espacio en disco.
+Integrar con otras aplicaciones: Interactuar con otras aplicaciones y servicios para automatizar flujos de trabajo complejos que involucran la gestión de archivos.
